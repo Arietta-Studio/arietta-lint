@@ -205,7 +205,7 @@ This project is [MIT](./LICENSE) licensed.
 [codespaces-shield]: https://github.com/codespaces/badge.svg
 [contributors-contrib]: https://contrib.rocks/image?repo=arietta-studio/arietta-lint
 [contributors-url]: https://github.com/arietta-studio/arietta-lint/graphs/contributors
-[discord-link]: https://discord.gg/AYFPHvv2jT
+[discord-link]: https://discord.gg/
 [discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [github-action-release-link]: https://github.com/arietta-studio/arietta-lint/actions/workflows/release.yml
 [github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/arietta-studio/arietta-lint/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
