@@ -194,7 +194,7 @@ Contributions of all types are more than welcome, if you are interested in contr
 #### 📝 License
 
 Copyright © 2024 [Arietta Studio][profile-link]. <br />
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed. <br />
 
 <!-- LINK GROUP -->
 
