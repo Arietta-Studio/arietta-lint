@@ -132,7 +132,6 @@
     "remark": "^14",
     "remark-cli": "^11",
     "semantic-release": "^21",
-    "stylelint": "^15",
     "typescript": "^5"
   },
   "peerDependencies": {
