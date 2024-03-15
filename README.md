@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img height="120" src="https://registry.npmmirror.com/@arietta-studio/assets-logo/1.0.0/files/assets/logo-3d.webp">
+<img height="150" src="https://unpkg.com/@arietta-studio/assets-logo@latest/assets/logo-3d.webp">
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-<img height="120" src="https://registry.npmmirror.com/@arietta-studio/assets-emoji/1.3.0/files/assets/triangular-ruler.webp">
+<img height="120" src="https://unpkg.com/@arietta-studio/assets-emoji@latest/assets/triangular-ruler.webp">
 
 <h1>Arietta Lint</h1>
 
@@ -206,7 +206,7 @@ This project is [MIT](./LICENSE) licensed. <br />
 [contributors-contrib]: https://contrib.rocks/image?repo=arietta-studio/arietta-lint
 [contributors-url]: https://github.com/arietta-studio/arietta-lint/graphs/contributors
 [discord-link]: https://discord.gg/
-[discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
+[discord-shield]: https://img.shields.io/discord/?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [github-action-release-link]: https://github.com/arietta-studio/arietta-lint/actions/workflows/release.yml
 [github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/arietta-studio/arietta-lint/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
 [github-action-test-link]: https://github.com/arietta-studio/arietta-lint/actions/workflows/test.yml
