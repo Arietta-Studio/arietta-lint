@@ -38,7 +38,6 @@ export default {
     'unicorn/no-empty-file': 'warn',
     'unicorn/no-negated-condition': 'warn',
     'unicorn/no-nested-ternary': 0,
-    'unicorn/no-null': 'warn',
     'unicorn/no-typeof-undefined': 'warn',
     'unicorn/no-useless-undefined': 'warn',
     'unicorn/prefer-code-point': 'warn',
@@ -54,5 +53,5 @@ export default {
       'warn',
       { args: 'after-used', argsIgnorePattern: '^_', vars: 'all', varsIgnorePattern: '^_' },
     ],
-  }
+  },
 };
